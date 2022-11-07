@@ -4,7 +4,8 @@
 - Bare metal C entirely written by myself.  
 - Assembly used for the system interrupts library.  
 - Includes a graphics driveer for a shell to be displayed via HDMI.  
-- Includes an audio driver to play frequencies using pulse width modulatuion through the audio jack.
+- Includes an audio driver to play frequencies using pulse width modulatuion through the audio jack.  
+- Includes a keyboard driver to control the shell using a PS/2 keyboard wired to the Raspberry Pi GPIO pins.
 
 ## Audio Driver:  
   
